@@ -1,19 +1,18 @@
 ![System out print (I'm Alejandro)](https://user-images.githubusercontent.com/91127175/216161394-7655c72c-ab93-4069-8fcf-847760528aef.gif)
  
  
-<img align='left' src='https://user-images.githubusercontent.com/91127175/216166605-761c9331-90e9-40f5-b957-b330bb38e9d0.gif' width='200'>
+<img align='left' src='https://user-images.githubusercontent.com/91127175/216166605-761c9331-90e9-40f5-b957-b330bb38e9d0.gif' width='180'>
 <img align='right' src='https://user-images.githubusercontent.com/91127175/216166733-fc60b494-2617-49a0-a553-407b115c519f.gif' width='200'>
  
 <br></br>
 <h3 align="center">Languages and Tools Languages and Tools Languages and Tools Languages and Tools:</h3>
 
 <br></br>
-<br></br>
-<br></br>
+
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60""/> </a>  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="60" height="60""/> </a> <a href="https://junit.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91127175/216155168-10f21f6b-b5af-45c4-b47b-082a12686abb.png" width="60" height="60""/> </a> <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="60" height="60""/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="60" height="60"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/> </a>  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91127175/216154481-022c153c-9369-416f-b50d-9701424ad807.png" alt="github" width="60" height="60"/> </a> </p>
+<p align="center"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width=width="100" height="100"/> </a>  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="100" height="100"/> </a> <a href="https://junit.org" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91127175/216155168-10f21f6b-b5af-45c4-b47b-082a12686abb.png" width="100" height="100"/> </a> <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="100" height="100"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="100" height="100"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="100" height="100"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="100" height="100"/> </a>  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91127175/216154481-022c153c-9369-416f-b50d-9701424ad807.png" alt="github" width="100" height="100"/> </a> </p>
 
 <br></br>
 
@@ -25,7 +24,7 @@
 <br></br>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alejo2075&" alt="alejo2075" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alejo2075&" alt="alejo2075" /></p>
 
 <br></br>
 
