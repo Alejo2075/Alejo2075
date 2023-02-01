@@ -12,9 +12,16 @@
 
 <br></br>
 
+<h2>Projects</h2>
 
-- 🔭 I’m currently working on **QuickPick**
-- 🔭 I’m currently working on **TalentTracker**
+ <a href="https://github.com/Alejo2075/QuickPick.git">**QuickPick**</a><span>
+ 
+ <p>QuickPick is a transportation services platform that provides fast, convenient, and reliable transportation options for individuals and businesses. With a focus on customer experience and innovation, QuickPick makes it easy to book a ride and get where you need to go, whether it's for personal or professional purposes.</p>
+ 
+ 
+ <a href="https://github.com/Alejo2075/TalentTracker.git">**TalentTracker**</a><span>
+ 
+ <p>TalentTracker is a web-based platform dedicated to helping identify and connect promising young athletes with opportunities to take their sports careers to the next level. By using cutting-edge technology and a network of experienced scouts and coaches, TalentTracker aims to provide a comprehensive evaluation of an athlete's skills, strengths, and potential.</p>
 
 
 <br></br>
