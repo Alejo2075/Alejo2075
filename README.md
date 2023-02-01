@@ -27,7 +27,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://linkedin.com/in/alejo00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/alejo00" width="60" height="60"" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21128120/alejandro-santana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21128120/alejandro-santana" width="60" height="60"" /></a>
+<a href="https://stackoverflow.com/users/21128120/alejandro-santana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21128120/alejandro-santana" width="60" height="60"" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/alejo75/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/alejo75/" width="60" height="60"" /></a>
 </p>
 
