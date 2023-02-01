@@ -1,7 +1,7 @@
 ![System out print (I'm Alejandro)](https://user-images.githubusercontent.com/91127175/216161394-7655c72c-ab93-4069-8fcf-847760528aef.gif)
  
  
-<h3 align="center" >As a recent graduate in software engineering. I have a strong foundation in Java programming and have honed my problem-solving skills through my experience with competitive programming. I am excited to continue learning and growing as a software engineer, and am open to new opportunities in the industry.</h3>
+<h3 align="center" >A recent graduate in software engineering. I have a strong foundation in Java programming and have honed my problem-solving skills through my experience with competitive programming. I am excited to continue learning and growing as a software engineer, and am open to new opportunities in the industry.</h3>
 
 <h2 align="right"> "Code speaks louder than words" </h2>
 
