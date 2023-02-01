@@ -1,12 +1,9 @@
 ![System out print (I'm Alejandro)](https://user-images.githubusercontent.com/91127175/216161394-7655c72c-ab93-4069-8fcf-847760528aef.gif)
  
  
-<img align='left' src='https://user-images.githubusercontent.com/91127175/216166605-761c9331-90e9-40f5-b957-b330bb38e9d0.gif' width='180'>
-<img align='right' src='https://user-images.githubusercontent.com/91127175/216166733-fc60b494-2617-49a0-a553-407b115c519f.gif' width='200'>
- 
-<h3 align="center">As a recent graduate in software engineering. I have a strong foundation in Java programming and have honed my problem-solving skills through my experience with competitive programming. I am excited to continue learning and growing as a software engineer, and am open to new opportunities in the industry.</h3>
+<h3 align="center" >As a recent graduate in software engineering. I have a strong foundation in Java programming and have honed my problem-solving skills through my experience with competitive programming. I am excited to continue learning and growing as a software engineer, and am open to new opportunities in the industry.</h3>
 
-<br></br>
+<h2 align="right"> "Code speaks louder than words" </h2>
 
 
 <h3 align="center">Languages and Tools:</h3>
