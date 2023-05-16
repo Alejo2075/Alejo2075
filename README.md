@@ -9,6 +9,8 @@
 
 <h2>Projects</h2>
 
+  <h3> NeighborWatt </h3>
+  <p> Neighborwatt is an innovative project that facilitates the buying, selling, and sharing of renewable energy among neighbors. Leveraging the Ethereum network and a Java microservices architecture, Neighborwatt empowers communities to embrace sustainable practices while fostering a decentralized energy marketplace. By connecting individuals and enabling secure transactions, Neighborwatt promotes renewable energy adoption, neighborly collaboration, and a greener future for all. </p>
 
 <br></br>
 
