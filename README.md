@@ -14,27 +14,25 @@ Neighborwatt is an innovative project that facilitates the buying, selling, and 
 ### LeetCode
 
 ## 🥇 Awards :
+### <img align="left" src="https://github.com/Alejo2075/Alejo2075/assets/91127175/d095f652-de6a-4062-84c6-c1158db4690a" width="60" height="33"/> The 2021 International Collegiate Programming Contest
 
+______________________________
 
-
-<br></br>
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&qColor=Grey&aColor=White&bgColor=Black)
-
-<img align="left" src="https://github.com/Alejo2075/Alejo2075/assets/91127175/35b6a9e8-1b2c-4c29-af07-3f73b5d3deb7" width="200" height="120"/>
-<img align="right" src="https://github.com/Alejo2075/Alejo2075/assets/91127175/18699233-d5ff-49e5-a8a4-a9faf643a069" width="200" height="120"/>
+<img align="right" src="https://github.com/Alejo2075/Alejo2075/assets/91127175/4987f9f8-4441-4f8e-934e-16eac6f848b6" width="45" height="33"/>
 
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alejo2075&" alt="alejo2075" /></p>
 
-<br></br>
+_____________________________
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/https://linkedin.com/in/alejo00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/alejo00" width="60" height="60"" /></a>
-<a href="https://stackoverflow.com/users/21128120/alejandro-santana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21128120/alejandro-santana" width="60" height="60"" /></a> <a href="https://www.leetcode.com/alejo75/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/alejo75/" width="60" height="60"" /></a>
-</p>
+## 📱 Connect with me :
+<a href="https://linkedin.com/in/https://linkedin.com/in/alejo00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/alejo00" width="60" height="60"" ></a>
 
+  <a href="https://stackoverflow.com/users/21128120/alejandro-santana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21128120/alejandro-santana" width="60" height="60"" ></a> 
+  
+  <a href="https://www.leetcode.com/alejo75/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/alejo75/" width="60" height="60"" ></a>
 
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 
 
