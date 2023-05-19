@@ -2,11 +2,13 @@
 ![System out println(Code speak louder than words) (1)](https://user-images.githubusercontent.com/91127175/216800754-03d3893f-a542-43ef-b8b4-7429614f2ed7.gif)
 
 ## 👨‍💻 About me :
- ` A recent graduated Software Engineer
- Java Backend Developer
- Expertise in competitive programming
- Solid knowledge of algorithms and data structures
- Experienced in designing and implementing robust architectures, and efficient and scalable software solutions`
+ ` A recent graduated Software Engineer. Java Backend Developer. Expertise in competitive programming. Solid knowledge of algorithms and data structures. Experienced in designing and implementing robust architectures, and efficient and scalable software solutions`
+ 
+ <img align="right" src="https://github.com/Alejo2075/Alejo2075/assets/91127175/1ecf1fd4-d579-4643-90ee-e917e175e56a" width="160" height="90"/>
+ 
+- 🔭: Looking for a job as a software engineer.  
+- 📂: Working on personal projects and building web applications.  
+- ⏲️: In my free time, I solve problems on LeetCode and read tech articles.
 
 ## 🛠️ Languages and Tools :
 
