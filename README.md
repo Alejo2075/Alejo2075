@@ -1,10 +1,21 @@
 
 ![System out println(Code speak louder than words) (1)](https://user-images.githubusercontent.com/91127175/216800754-03d3893f-a542-43ef-b8b4-7429614f2ed7.gif)
 
-<h2>Projects</h2>
+## 👨‍💻 About me :
 
-  <h3> NeighborWatt </h3>
-  <p> Neighborwatt is an innovative project that facilitates the buying, selling, and sharing of renewable energy among neighbors. Leveraging the Ethereum network and a Java microservices architecture, Neighborwatt empowers communities to embrace sustainable practices while fostering a decentralized energy marketplace. By connecting individuals and enabling secure transactions, Neighborwatt promotes renewable energy adoption, neighborly collaboration, and a greener future for all. </p>
+## 🛠️ Languages and Tools :
+
+## 📁 Projects :
+### ⚡ NeighborWatt
+Neighborwatt is an innovative project that facilitates the buying, selling, and sharing of renewable energy among neighbors. Leveraging the Ethereum network and a Java microservices architecture, Neighborwatt empowers communities to embrace sustainable practices while fostering a decentralized energy marketplace. By connecting individuals and enabling secure transactions, Neighborwatt promotes renewable energy adoption, neighborly collaboration, and a greener future for all.
+
+## 👨‍🎓 Algorithms :
+### Cracking the Code Interview
+### LeetCode
+
+## 🥇 Awards :
+
+
 
 <br></br>
 ![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&qColor=Grey&aColor=White&bgColor=Black)
