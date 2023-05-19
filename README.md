@@ -16,14 +16,6 @@ Neighborwatt is an innovative project that facilitates the buying, selling, and 
 ## 🥇 Awards :
 ### <img align="left" src="https://github.com/Alejo2075/Alejo2075/assets/91127175/d095f652-de6a-4062-84c6-c1158db4690a" width="60" height="33"/> The 2021 International Collegiate Programming Contest
 
-______________________________
-
-<img align="right" src="https://github.com/Alejo2075/Alejo2075/assets/91127175/4987f9f8-4441-4f8e-934e-16eac6f848b6" width="45" height="33"/>
-
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alejo2075&" alt="alejo2075" /></p>
-
-_____________________________
 
 ## 📱 Connect with me :
 <a href="https://linkedin.com/in/https://linkedin.com/in/alejo00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/alejo00" width="60" height="60"" ></a>
