@@ -8,7 +8,26 @@
 - ⏲️: In my free time, I solve Algorithmia problems.
 
 ## 🛠️ Languages and Tools :
-<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/1ecf1fd4-d579-4643-90ee-e917e175e56a" width="50" height="50"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/b19ff74f-a5f0-4aa6-8d41-3a18ba97635b" width="50" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/e1f66254-1387-4f71-86dc-bfe58bf4755a" width="40" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/b7556ddf-e8ce-48e9-a7e5-5a5ccabfba65" width="40" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/8c5c7efc-559f-4a7c-a2d4-2ba3e16e475a" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/29a9dad7-078a-456d-bc0e-b3f441830213" width="50" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/282b049b-f8e4-4583-b2c6-30d66b746bef" width="50" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/24198393-8862-4f0f-afae-54e9aa3b2700" width="50" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/d20714ff-cbb8-4bd8-b11b-3d7b1b35bd0b" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="50" height="50"/>&nbsp;
+
+
 
 ## 📁 Projects :
 ### ⚡ [NeighborWatt](example.com)
