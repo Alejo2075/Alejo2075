@@ -44,12 +44,12 @@
 #### [Data Structures and Algorithms Implementations](https://github.com/Alejo2075/Data-Structures-and-Algorithms-Implementations)
 #### [ICPC Notebook](https://github.com/Alejo2075/ICPC-Notebook)
 #### [Cracking the Code Interview Solutions](https://github.com/Alejo2075/Cracking-the-Code-Interview-Solutions)
-#### [Project Euler Solutions](https://github.com/Alejo2075/Project-Euler-Solutions)
 #### [LeetCode Solutions](https://github.com/Alejo2075/LeetCode-Solutions)
 
 ## 🥇 Awards :
 
 ### <img align="left" src="https://github.com/Alejo2075/Alejo2075/assets/91127175/d095f652-de6a-4062-84c6-c1158db4690a" width="60" height="33"/> The 2021 International Collegiate Programming Contest
+
 
 ## 📱 Connect with me :
 
