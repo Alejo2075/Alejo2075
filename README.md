@@ -25,7 +25,7 @@
 #### [LeetCode Solutions](example.com)
 
 ## 🥇 Awards :
-### <img align="left" src="https://github.com/Alejo2075/Alejo2075/assets/91127175/d095f652-de6a-4062-84c6-c1158db4690a" width="60" height="33"/> The 2021 International Collegiate Programming Contest -> Regional Contest < Rank 22 >
+### <img align="left" src="https://github.com/Alejo2075/Alejo2075/assets/91127175/d095f652-de6a-4062-84c6-c1158db4690a" width="60" height="33"/> The 2021 International Collegiate Programming Contest
 
 ## 📱 Connect with me :
 <a href="https://linkedin.com/in/https://linkedin.com/in/alejo00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/alejo00" width="60" height="60" ></a>
