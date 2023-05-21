@@ -39,6 +39,7 @@
 
 ## 👨‍🎓 Algorithmia :
 #### [Data Structures and Algorithms Implementation](example.com)
+#### [ICPC Notebook](example.com)
 #### [Cracking the Code Interview Solutions](example.com)
 #### [Project Euler Solutions](example.com)
 #### [LeetCode Solutions](example.com)
