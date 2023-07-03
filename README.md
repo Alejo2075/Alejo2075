@@ -26,9 +26,18 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50"/>&nbsp;
 <img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/1eee7daa-199e-464f-9954-9c8e1669f763" width="50" height="50"/>&nbsp;
-<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/badbc3bd-be07-4644-9af1-db579eed6715" width="50" height="50"/>&nbsp;
-<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/b57c7a0e-15c4-4a2b-8628-ba13e239454c" width="50" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/8a497ca3-7e82-4cfe-aaa8-d311b87c7511" width="50" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/941a57fe-7424-4ea5-91a6-014d45b56b50" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="50" height="50"/>&nbsp;
+
+
+![image](https://github.com/Alejo2075/Alejo2075/assets/91127175/5e953e45-5443-45c4-b850-bc0b6c48f9af)
+![image](https://github.com/Alejo2075/Alejo2075/assets/91127175/0146737b-058c-4a9a-b3f6-acd902af427f)
+![image]()
+![image]()
+
+![image](https://github.com/Alejo2075/Alejo2075/assets/91127175/5576a598-5ef5-4057-973b-7d5f42ce3990)
+![image](https://github.com/Alejo2075/Alejo2075/assets/91127175/990faeff-6082-48ad-b801-ed752a9ae4e7)
 
 
 
