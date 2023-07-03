@@ -25,6 +25,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/1eee7daa-199e-464f-9954-9c8e1669f763" width="50" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/badbc3bd-be07-4644-9af1-db579eed6715" width="50" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/2ae399ec-b04d-4242-a515-39712867e567" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="50" height="50"/>&nbsp;
 
 
