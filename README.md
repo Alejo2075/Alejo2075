@@ -40,6 +40,11 @@
 ### ☕ [Espresso](example.com)
 `A lightweight and user-friendly Java-based web framework that provides a simple and efficient solution for developing APIs. With an intuitive and easy-to-use syntax, it allows for quickly creating web services with all the necessary functionalities. Additionally, Espresso offers support for request management, routing, data validation, and error handling, simplifying the development process. With its minimalist yet powerful approach, Espresso is the ideal choice for building robust and scalable APIs in Java. It provides a simplified structure and integrated tools to streamline the API creation process, allowing developers to focus on business logic rather than worrying about technical implementation details.`
 
+### 🔎 [Chivato](example.com)
+`A cuban pages search engine`
+
+### 🏍️ [Mototaxi](example.com)
+`A cuban ride-sharing app`
 
 
 ## 👨‍🎓 Algorithmia :
