@@ -53,6 +53,9 @@
 ### 🏍️ [Mototaxi](example.com)
 `A cuban ride-sharing app`
 
+### 🤖 [GPTalk](example.com)
+`A Chat GPT alexa-skill`
+
 
 ## 👨‍🎓 Algorithmia :
 
