@@ -60,9 +60,10 @@
 `A chat-game`
 
 
-## 👨‍🎓 Algorithmia :
+## 👨‍🎓 Other :
 
 #### [Data Structures and Algorithms Implementations](https://github.com/Alejo2075/Data-Structures-and-Algorithms-Implementations)
+#### [Design Patterns Implementations](example.com)
 #### [ICPC Notebook](https://github.com/Alejo2075/ICPC-Notebook)
 #### [Cracking the Code Interview Solutions](https://github.com/Alejo2075/Cracking-the-Code-Interview-Solutions)
 #### [LeetCode Solutions](https://github.com/Alejo2075/LeetCode-Solutions)
