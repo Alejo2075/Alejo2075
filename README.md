@@ -64,7 +64,7 @@
 
 ## 👨‍🎓 Others :
 
-#### [Data Structures and Algorithms Implementations](https://github.com/Alejo2075/Data-Structures-and-Algorithms-Implementations)
+#### [Java Algorithms and Data Structures](https://github.com/Alejo2075/Java_Algorithms.git)
 #### [Design Patterns Implementations](example.com)
 #### [ICPC Notebook](https://github.com/Alejo2075/ICPC-Notebook)
 #### [Cracking the Code Interview Solutions](https://github.com/Alejo2075/Cracking-the-Code-Interview-Solutions)
