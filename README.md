@@ -62,7 +62,7 @@
 `A Chat GPT alexa-skill`
 
 
-## 👨‍🎓 Other :
+## 👨‍🎓 Others :
 
 #### [Data Structures and Algorithms Implementations](https://github.com/Alejo2075/Data-Structures-and-Algorithms-Implementations)
 #### [Design Patterns Implementations](example.com)
