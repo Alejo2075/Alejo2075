@@ -11,18 +11,24 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>&nbsp;
-<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/b19ff74f-a5f0-4aa6-8d41-3a18ba97635b" width="50" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/b19ff74f-a5f0-4aa6-8d41-3a18ba97635b" width="55" height="50"/>&nbsp;
 <img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/e1f66254-1387-4f71-86dc-bfe58bf4755a" width="40" height="50"/>&nbsp;
 <img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/b7556ddf-e8ce-48e9-a7e5-5a5ccabfba65" width="40" height="50"/>&nbsp;
 <img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/8c5c7efc-559f-4a7c-a2d4-2ba3e16e475a" width="50" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/01d36343-df81-4e74-b752-5e9e51025801" width="60" height="60"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/77944032-1881-4e48-a2c3-67d7907345dc" width="50" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/d7648099-f5f9-46ac-b7f1-a3497f366545" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>&nbsp;
 <img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/0146737b-058c-4a9a-b3f6-acd902af427f" width="50" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/149f5e39-e6e7-4ae9-b678-2d74e4c430fa" width="40" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/c43d6823-27bf-40d6-adbf-19bda3d2bf3b" width="50" height="30"/>&nbsp;
 <img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/29a9dad7-078a-456d-bc0e-b3f441830213" width="50" height="50"/>&nbsp;
 <img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/282b049b-f8e4-4583-b2c6-30d66b746bef" width="50" height="50"/>&nbsp;
 <img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/24198393-8862-4f0f-afae-54e9aa3b2700" width="50" height="50"/>&nbsp;
 <img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/d20714ff-cbb8-4bd8-b11b-3d7b1b35bd0b" width="50" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/c0c9f13a-f686-4bd2-8d51-2ae9104ee0fa" width="30" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50"/>&nbsp;
@@ -33,7 +39,6 @@
 <img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/5576a598-5ef5-4057-973b-7d5f42ce3990" width="50" height="50"/>&nbsp;
 <img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/990faeff-6082-48ad-b801-ed752a9ae4e7" width="50" height="50"/>&nbsp;
 <img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/5e953e45-5443-45c4-b850-bc0b6c48f9af" width="50" height="50"/>&nbsp;
-
 
 
 ## 📁 Projects :
