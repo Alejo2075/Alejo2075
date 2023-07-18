@@ -18,6 +18,7 @@
 <img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/01d36343-df81-4e74-b752-5e9e51025801" width="60" height="60"/>&nbsp;
 <img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/77944032-1881-4e48-a2c3-67d7907345dc" width="50" height="50"/>&nbsp;
 <img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/d7648099-f5f9-46ac-b7f1-a3497f366545" width="50" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/44145f46-e69d-4e3b-a991-e359240f8cf4" width="60" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>&nbsp;
