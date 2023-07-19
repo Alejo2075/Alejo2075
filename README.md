@@ -8,7 +8,7 @@
 - ⏲️: In my free time, I solve Algorithmia problems.
 
 ## 🛠️ Languages and Tools :
-
+<!--
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>&nbsp;
 <img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/b19ff74f-a5f0-4aa6-8d41-3a18ba97635b" width="55" height="50"/>&nbsp;
@@ -39,15 +39,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" width="50" height="50"/>&nbsp;
 <img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/5576a598-5ef5-4057-973b-7d5f42ce3990" width="50" height="50"/>&nbsp;
 <img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/990faeff-6082-48ad-b801-ed752a9ae4e7" width="50" height="50"/>&nbsp;
-<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/5e953e45-5443-45c4-b850-bc0b6c48f9af" width="50" height="50"/>&nbsp;
+<img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/5e953e45-5443-45c4-b850-bc0b6c48f9af" width="50" height="50"/>&nbsp; -->
 
 
 ## 📁 Projects :
 
+
 <!--
+### 🏍️ [Mototaxi](example.com)
+`A cuban ride-sharing app`
+
 ### ⚡ [NeighborWatt](example.com)
 `Neighborwatt is an innovative project that facilitates the buying, selling, and sharing of renewable energy among neighbors. Leveraging the Ethereum network and a Java microservices architecture, Neighborwatt empowers communities to embrace sustainable practices while fostering a decentralized energy marketplace. By connecting individuals and enabling secure transactions, Neighborwatt promotes renewable energy adoption, neighborly collaboration, and a greener future for all.`  
--->
+
 
 ### <img src="https://github.com/Alejo2075/Alejo2075/assets/91127175/e5ea9282-9e7a-47bf-8f5b-71699f535cb8" width="25" height="25"/> [AlgoFlow](example.com)
 `Interactive real-time algorithm execution platform using web sockets. AlgoFlow allows for the execution of complex algorithms on the backend while sending each step of the solution instantly to the frontend. Enables frontend developers to design and customize their own web interface to showcase algorithms. Built using Java and Spring, this project leverages the power of these technologies to provide a robust and scalable backend.`
@@ -58,10 +62,7 @@
 ### 🔎 [Chivato](example.com)
 `A cuban pages search engine`
 
-### 🏍️ [Mototaxi](example.com)
-`A cuban ride-sharing app`
 
-<!--
 ### 🤖 [GPTalk](example.com)
 `A Chat GPT alexa-skill`
 -->
