@@ -70,11 +70,9 @@
 
 ## 👨‍🎓 Others :
 
-#### [Java Data Structures and Algorithms](https://github.com/Alejo2075/java-data-structures-and-algorithms.git)
-#### [Java Design Patterns](example.com)
+#### [Java Notes](https://github.com/Alejo2075/java-data-structures-and-algorithms.git)
 #### [ICPC Notebook - Java](https://github.com/Alejo2075/ICPC-Notebook)
-#### [Cracking the Code Interview Solutions](https://github.com/Alejo2075/Cracking-the-Code-Interview-Solutions)
-#### [LeetCode Solutions](https://github.com/Alejo2075/LeetCode-Solutions)
+
 
 ## 🥇 Awards :
 
