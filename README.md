@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile! 👋
 
 Hello, I'm Alejandro Santana! 👨‍💻 I'm passionate about software development and constantly seeking to learn new technologies. Here, you'll find some of my most interesting projects and experiments.
-
+<!--
 ## 🚀 My Projects
 
 Here's a list of some of my highlighted projects:
@@ -33,7 +33,7 @@ My interests span several cutting-edge fields, blending the rigor of coding with
 
 - **☁️ Cloud Computing**: I am actively learning and applying cloud computing technologies. Understanding how to leverage the cloud for scalable, resilient, and efficient solutions is crucial, particularly in deploying applications that require high availability and security.
 
-<!--
+
 ## 📚 Continuous Learning
 
 I am committed to constant learning. Some of the areas I am currently expanding my knowledge in include:
