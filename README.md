@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Alejandro Santana Robaina
+# Hi there! 👋
+I'm Alejandro Santana Robaina ...
 
-#### Backend:
-![Node JS, Express, PHP, Laravel, MySQL](https://skillicons.dev/icons?i=nodejs,express,php,laravel,mysql)
+![My Skills](https://skillicons.dev/icons?i=java,spring,aws,mysql,postgres,mongodb,redis,kafka,docker,kubernetes,jenkins,prometheus,grafana,git,maven)
