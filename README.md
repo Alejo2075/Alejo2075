@@ -1,24 +1,19 @@
-# 👋 **Hi there!**  
-### I'm **Alejandro Santana Robaina** 🇨🇺🇺🇸  
+# 👋 Alejandro Santana
 
-![My Skills](https://skillicons.dev/icons?i=java,spring,aws)
+### Software Engineer | AWS Certified | Serverless, Distributed Systems & AI
 
-- ✅ **AWS Solutions Architect Associate**  
-- ✅ **AWS Developer Associate**  
-- 🥇 **ICPC Latin America Regional Participant**  
+Building cloud infrastructure, developer tools, and serverless systems on AWS.
 
+## 🚀 Products
 
-<!--
-**Alejo2075/Alejo2075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[Zerverless](https://zerverless.com)** — Build and generate serverless systems with AI on AWS
+- **[NautaCloud](https://nautacloud.net)** — Cloud infrastructure and hosting platform on AWS
 
-Here are some ideas to get you started:
+## 🎯 Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`AWS` · `Serverless` · `Distributed Systems` · `Cloud Architecture` · `Generative AI`
+
+## 🏅 Certifications
+
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Developer – Associate
