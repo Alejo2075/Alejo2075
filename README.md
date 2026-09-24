@@ -24,7 +24,7 @@ I build cloud infrastructure, developer tools, and serverless systems on AWS, wi
   — Cloud infrastructure and hosting platform built on AWS
 </p>
 
-## 🎯 Focus
+## 🎯 Core Areas
 
 `AWS` · `Serverless` · `Distributed Systems` · `Cloud Architecture` · `Generative AI` · `Developer Tools`
 
